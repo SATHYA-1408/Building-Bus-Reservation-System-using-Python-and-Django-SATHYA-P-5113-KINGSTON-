@@ -3,9 +3,9 @@ PROJECT CREATED BY : SATHYA P
 
 LOGIN DETAILS:
 
-UNAME: admin
+USERNAME: sathya14
 
-Password:admin
+Password:parthiban14
 
 #Project Running steps:
 
