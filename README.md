@@ -7,20 +7,8 @@ USERNAME: sathya14
 
 Password:parthiban14
 
-#Project Running steps:
 
-python manage.py makemigrations
-
-python manage.py migrate
-
-python manage.py createsuperuser
-
-python manage.py runserver
-
-
-
-
- Bus Reservation System
+ Bus Reservation System running steps
 
 This is a simple Bus Reservation System built using Python and Django framework. The system allows users to search for available buses, make reservations, and view their booking details.
 
@@ -40,43 +28,39 @@ This is a simple Bus Reservation System built using Python and Django framework.
 
 ## Installation
 
-1. Clone the repository:
 
-```
-git clone https://github.com/your-username/bus-reservation-system.git
-```
 
-2. Navigate to the project directory:
+1. Navigate to the project directory:
 
 ```
 cd bus-reservation-system
 ```
 
-3. Install dependencies:
+2. Install dependencies:
 
 ```
 pip install -r requirements.txt
 ```
 
-4. Run migrations:
+3. Run migrations:
 
 ```
 python manage.py migrate
 ```
 
-5. Create a superuser:
+4. Create a superuser:
 
 ```
 python manage.py createsuperuser
 ```
 
-6. Start the development server:
+5. Start the development server:
 
 ```
 python manage.py runserver
 ```
 
-7. Visit `http://127.0.0.1:8000/` in your browser to access the application.
+6. Visit `http://127.0.0.1:8000/` in your browser to access the application.
 
 ## Usage
 
